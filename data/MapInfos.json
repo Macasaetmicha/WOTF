@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Philippine Map","order":1,"parentId":0,"scrollX":640.8,"scrollY":390.59999999999997},
+{"id":2,"expanded":true,"name":"School","order":3,"parentId":1,"scrollX":748,"scrollY":803,"quick":false},
+{"id":3,"expanded":false,"name":"School Hallway","order":4,"parentId":2,"scrollX":873,"scrollY":330.5,"quick":false},
+{"id":4,"expanded":false,"name":"School Classroom","order":5,"parentId":3,"scrollX":801,"scrollY":452.25,"quick":false},
+{"id":5,"expanded":true,"name":"Library","order":6,"parentId":4,"scrollX":582.5454545454546,"scrollY":355.0909090909091,"quick":false},
+{"id":6,"expanded":false,"name":"Faculty","order":9,"parentId":4,"scrollX":1068,"scrollY":635,"quick":false},
+{"id":7,"expanded":true,"name":"Dungeon","order":7,"parentId":5,"scrollX":582.5454545454546,"scrollY":796.909090909091,"quick":false},
+{"id":8,"expanded":false,"name":"Boss Fight","order":8,"parentId":7,"scrollX":582.5454545454546,"scrollY":346.3636363636364,"quick":false},
+{"id":9,"expanded":false,"name":"Bicol-Forest","order":11,"parentId":1,"scrollX":1084.5,"scrollY":507.75,"quick":false},
+{"id":10,"expanded":false,"name":"Bicol-Town","order":12,"parentId":9,"scrollX":0,"scrollY":0,"quick":false},
+{"id":11,"expanded":false,"name":"Bicol-Library","order":13,"parentId":9,"scrollX":0,"scrollY":0,"quick":false},
+{"id":12,"expanded":false,"name":"Bicol-Nipahut","order":14,"parentId":9,"scrollX":0,"scrollY":0,"quick":false},
+{"id":13,"expanded":false,"name":"Bicol-Village of Magayon","order":15,"parentId":9,"scrollX":0,"scrollY":0,"quick":false},
+{"id":14,"expanded":false,"name":"Bicol-Mayon","order":16,"parentId":9,"scrollX":0,"scrollY":0,"quick":false},
+{"id":15,"expanded":true,"name":"main city","order":2,"parentId":1,"scrollX":582.5454545454546,"scrollY":328.90909090909093,"quick":false},
+{"id":16,"expanded":false,"name":"hallway","order":10,"parentId":2,"scrollX":591.2727272727273,"scrollY":320.1818181818182,"quick":false}
+]
