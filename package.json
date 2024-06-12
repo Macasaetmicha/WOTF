@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "Wonders of the Philippines",
+        "title": "Wonders PH",
         "width": 816,
         "height": 624,
         "position": "center",
